@@ -1,0 +1,10 @@
+C:\Users\virek\Documents\TouchSides\bin\Debug\TouchSides.exe.config
+C:\Users\virek\Documents\TouchSides\bin\Debug\TouchSides.exe
+C:\Users\virek\Documents\TouchSides\bin\Debug\TouchSides.pdb
+C:\Users\virek\Documents\TouchSides\obj\Debug\TouchSides.csproj.AssemblyReference.cache
+C:\Users\virek\Documents\TouchSides\obj\Debug\TouchSides.Properties.Resources.resources
+C:\Users\virek\Documents\TouchSides\obj\Debug\TouchSides.TouchSidesForm.resources
+C:\Users\virek\Documents\TouchSides\obj\Debug\TouchSides.csproj.GenerateResource.cache
+C:\Users\virek\Documents\TouchSides\obj\Debug\TouchSides.csproj.CoreCompileInputs.cache
+C:\Users\virek\Documents\TouchSides\obj\Debug\TouchSides.exe
+C:\Users\virek\Documents\TouchSides\obj\Debug\TouchSides.pdb

@@ -1,0 +1,17 @@
+﻿Metrics
+Project: TouchSides
+Configuration: Debug
+Scope: Assembly
+Assembly: C:\Users\virek\Documents\TouchSides\bin\Debug\TouchSides.exe
+Maintainability Index: 82
+Cyclomatic Complexity: 41
+Depth of Inheritance: 7
+Class Coupling: 47
+Lines of Source code: 395
+Lines of Executable code: 135
+
+The first thing that could be improved is the amount of time it takes to post the results.
+This could be acheived by using threading.
+Materializing LINQ Queries
+Parallelization of ForEachLoops
+Using a Struct Instead of Class
